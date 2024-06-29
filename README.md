@@ -6,7 +6,7 @@ In this notebook, I explore a novel approach to encoding input features into rot
 but they often follow more straightforward encoding schemes where the input data is directly mapped 
 onto quantum states without sophisticated partitioning strategies.
 
-- Standard implementations, such as the one you provided using Pennylane, typically focus on encoding small, fixed-size regions directly onto qubits.
+- Standard implementations, such as the one provided using Pennylane, typically focus on encoding small, fixed-size regions directly onto qubits.
 
 2. **Partitioning for Efficient Encoding**:
 
